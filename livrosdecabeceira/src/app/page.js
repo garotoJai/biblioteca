@@ -13,6 +13,12 @@ export default function Home() {
 
          <a href="/sobre">Sobre</a>
       </nav>
+
+    
+      <tittulo/> livros lançamneto
+      <tittulo/> livros romances
+      <tittulo/> livros suspence
+
     </main>
   )
 }
